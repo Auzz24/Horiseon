@@ -8,7 +8,7 @@ HTML
 CSS
 
 ##Website
-file:///Users/austinmiller/projects/Horiseon/02-Challenge/Develop/myindex.html
+https://auzz24.github.io/Horiseon/
 
 ##Contribution
 Made with ❤️ by Austin Miller
